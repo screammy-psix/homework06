@@ -1,0 +1,15 @@
+C:\Users\Sveta\Desktop\gitworkspace\zd6\obj\Debug\net6.0\zd6.csproj.AssemblyReference.cache
+C:\Users\Sveta\Desktop\gitworkspace\zd6\obj\Debug\net6.0\zd6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sveta\Desktop\gitworkspace\zd6\obj\Debug\net6.0\zd6.AssemblyInfoInputs.cache
+C:\Users\Sveta\Desktop\gitworkspace\zd6\obj\Debug\net6.0\zd6.AssemblyInfo.cs
+C:\Users\Sveta\Desktop\gitworkspace\zd6\obj\Debug\net6.0\zd6.csproj.CoreCompileInputs.cache
+C:\Users\Sveta\Desktop\gitworkspace\zd6\bin\Debug\net6.0\zd6.exe
+C:\Users\Sveta\Desktop\gitworkspace\zd6\bin\Debug\net6.0\zd6.deps.json
+C:\Users\Sveta\Desktop\gitworkspace\zd6\bin\Debug\net6.0\zd6.runtimeconfig.json
+C:\Users\Sveta\Desktop\gitworkspace\zd6\bin\Debug\net6.0\zd6.dll
+C:\Users\Sveta\Desktop\gitworkspace\zd6\bin\Debug\net6.0\zd6.pdb
+C:\Users\Sveta\Desktop\gitworkspace\zd6\obj\Debug\net6.0\zd6.dll
+C:\Users\Sveta\Desktop\gitworkspace\zd6\obj\Debug\net6.0\refint\zd6.dll
+C:\Users\Sveta\Desktop\gitworkspace\zd6\obj\Debug\net6.0\zd6.pdb
+C:\Users\Sveta\Desktop\gitworkspace\zd6\obj\Debug\net6.0\zd6.genruntimeconfig.cache
+C:\Users\Sveta\Desktop\gitworkspace\zd6\obj\Debug\net6.0\ref\zd6.dll
